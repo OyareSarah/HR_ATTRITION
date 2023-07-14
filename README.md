@@ -1,6 +1,6 @@
 # HR_ATTRITION
 
-EMPLOYEE ATTRITION DASHBOARD to:
+EMPLOYEE ATTRITION DASHBOARD to generate information on:
 - Active Employee
 - Attrition Rate
 - Attrition
